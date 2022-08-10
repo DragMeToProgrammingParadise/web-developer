@@ -1,4 +1,4 @@
 # web-development
-I developed My first website "The Generics".
+I developed My first website clone "The Generics".
 Band portfolio in html and css.
 Please check it and give your valueable comments. 
